@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "@antfu/eslint-config": "^0.38.6",
+    "@headlessui/vue": "^1.7.13",
     "@heroicons/vue": "^2.0.17",
     "eslint": "^8.40.0",
     "eslint-plugin-tailwindcss": "^3.11.0",
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",

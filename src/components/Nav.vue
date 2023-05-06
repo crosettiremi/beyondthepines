@@ -22,8 +22,8 @@
 						v-if="!item.external"
 						:to="item.disabled ? '#' : item.href"
 						@click="handleClick(item.disabled, $event)"
-						class="text-sm font-semibold leading-6 text-white"
-						:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : ''"
+						class="text-sm font-semibold leading-6"
+						:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : 'text-white'"
 					>
 						{{ item.name }}
 					</router-link>
@@ -31,8 +31,8 @@
 						v-else
 						:href="item.disabled ? '/' : item.href"
 						@click="handleClick(item.disabled, $event)"
-						class="text-sm font-semibold leading-6 text-white"
-						:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : ''"
+						class="text-sm font-semibold leading-6"
+						:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : 'text-white'"
 						target="_blank"
         		rel="noopener noreferrer"
 					>
@@ -63,8 +63,8 @@
 								v-if="!item.external"
 								:to="item.disabled ? '#' : item.href"
 								@click="handleClick(item.disabled, $event)"
-								class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50 cursor-auto"
-								:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : ''"
+								class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-gray-50 cursor-auto"
+								:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : 'text-gray-900'"
 							>
 								{{ item.name }}
 							</router-link>
@@ -72,8 +72,8 @@
 								v-else
 								:href="item.disabled ? '/' : item.href"
 								@click="handleClick(item.disabled, $event)"
-								class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50 cursor-auto"
-								:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : ''"
+								class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-gray-50 cursor-auto"
+								:class="item.disabled ? 'text-gray-400 cursor-not-allowed' : 'text-gray-900'"
 								target="_blank"
         				rel="noopener noreferrer"
 							>

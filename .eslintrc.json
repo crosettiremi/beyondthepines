@@ -15,5 +15,11 @@
     "@typescript-eslint/consistent-type-definitions": ["error", "type"],
     "vue/space-unary-ops": "off",
     "vue/dot-location": "off"
-  }
+  },
+  "overrides": [
+    {
+      "files": ["*.vue"],
+      "parser": "vue-eslint-parser"
+    }
+  ]
 }

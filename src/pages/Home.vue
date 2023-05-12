@@ -1,8 +1,8 @@
 <template>
   <Page>
-    <img class="mb-4 h-40 w-full bg-white" href="">
-
     <div class="mb-20 flex w-full flex-col items-center">
+      <img class="mb-24 mt-10 h-40 w-full" src="/BTP_isolated_black.svg">
+
       <p class="text-center text-2xl font-semibold tracking-[0.5em] text-[#306D30]">
         A DAY OF HOUSE AND TECHNO
       </p>
@@ -34,7 +34,7 @@
         </h2>
       </div>
 
-      <ul class="mt-12 flex list-disc text-2xl text-[#87998F] lg:text-[#020502]">
+      <ul class="mt-12 flex list-disc text-center text-2xl text-[#87998F] lg:text-[#020502]">
         <li class="list-none">
           July 8th
         </li>
@@ -45,7 +45,7 @@
       </ul>
     </div>
 
-    <p class="mb-4 text-lg tracking-[0.75em] text-[#92A09B]">
+    <p class="mb-4 text-center text-lg tracking-[0.75em] text-[#92A09B]">
       DANCE AGENDA PRESENTS
     </p>
   </Page>

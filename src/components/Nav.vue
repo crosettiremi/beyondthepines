@@ -3,7 +3,7 @@
     <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
       <router-link to="/" class="-m-1.5 p-1.5">
         <span class="sr-only">Beyond The Pines</span>
-        <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=green&shade=600" alt="">
+        <img class="h-10 w-auto text-purple-500" src="/DA_Logo.svg?color=green&shade=600" alt="">
       </router-link>
 
       <div class="flex lg:hidden">

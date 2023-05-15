@@ -12,18 +12,18 @@
         SPECIAL SUNSET SET
       </p>
 
-      <div class="flex w-1/2 flex-col justify-between text-center lg:flex-row">
-        <img class="mt-6 h-14 flex-1 lg:mt-4" src="/AZZECCA_black.svg">
+      <div class="flex w-2/3 flex-col items-center justify-between text-center lg:flex-row">
+        <img class="mt-6 h-14 lg:mt-4 lg:w-1/3" src="/AZZECCA_black.svg">
 
-        <div class="my-0 flex flex-1 flex-col items-center">
-          <img class="mt-4 h-14" src="/CharlesD_Black.svg">
+        <div class="my-0 flex flex-col items-center lg:mx-16 lg:w-1/3">
+          <img class="mt-4 h-20" src="/CharlesD_Black.svg">
           <p class="hidden lg:block">
             B2B
           </p>
-          <img class="mt-4 h-12" src="/Weska-Black.svg">
+          <img class="h-12 lg:mt-4" src="/Weska-Black.svg">
         </div>
 
-        <img class="mt-4 max-h-14 flex-1" src="/embrz_black.svg">
+        <img class="mt-4 h-14 lg:w-1/3" src="/embrz_black.svg">
       </div>
 
       <a

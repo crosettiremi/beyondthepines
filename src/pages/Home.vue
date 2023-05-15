@@ -1,40 +1,39 @@
 <template>
   <Page>
-    <div class="mb-20 flex w-full flex-col items-center">
-      <img class="mb-24 mt-10 h-40 w-full" src="/BTP_isolated_black.svg">
+    <div class="flex w-full flex-col items-center">
+      <img class="my-8 h-40 w-full lg:mb-24" src="/BTP_isolated_black.svg">
 
-      <p class="text-center text-2xl font-semibold tracking-[0.5em] text-[#306D30]">
+      <p class="text-center text-lg font-semibold tracking-[0.5em] text-[#306D30] lg:text-2xl">
         A DAY OF HOUSE AND TECHNO
       </p>
 
-      <h1 class="mt-8 text-8xl font-bold text-[#09301D]">
-        Luttrell
-      </h1>
-      <p class="mb-8 font-bold text-[#01150A]">
+      <img class="mt-4 h-14" src="/Luttrell_black.svg">
+      <p class="mb-4 hidden font-bold text-[#01150A] lg:mb-8 lg:block">
         SPECIAL SUNSET SET
       </p>
 
       <div class="flex w-1/2 flex-col justify-between text-center lg:flex-row">
-        <h2 class="flex-1 text-5xl font-semibold text-[#09301D]">
-          AZZECCA
-        </h2>
+        <img class="mt-6 h-14 flex-1 lg:mt-4" src="/AZZECCA_black.svg">
 
-        <div class="my-6 flex flex-auto flex-col items-center lg:my-0">
-          <h2 class="text-5xl font-semibold text-[#2E4D3E] lg:text-[#09301D]">
-            CHARLES
-          </h2>
-          <p>B2B</p>
-          <h2 class="text-5xl font-semibold text-[#3F5748] lg:text-[#09301D]">
-            WESKA
-          </h2>
+        <div class="my-0 flex flex-1 flex-col items-center">
+          <img class="mt-4 h-14" src="/CharlesD_Black.svg">
+          <p class="hidden lg:block">
+            B2B
+          </p>
+          <img class="mt-4 h-12" src="/Weska-Black.svg">
         </div>
 
-        <h2 class="flex-1 text-5xl font-semibold text-[#87998F] lg:text-[#09301D]">
-          EMBRZ
-        </h2>
+        <img class="mt-4 max-h-14 flex-1" src="/embrz_black.svg">
       </div>
 
-      <ul class="mt-12 flex list-disc text-center text-2xl text-[#87998F] lg:text-[#020502]">
+      <a
+        class="mt-4 block rounded-full bg-[#306D30] px-4 py-2 lg:hidden" href="https://mydanceagenda.ticketsauce.com/e/beyond-the-pines-music-festival/tickets" target="_blank"
+        rel="noopener noreferrer"
+      >
+        Buy Tickets
+      </a>
+
+      <ul class="mt-12 flex list-disc text-center text-lg text-[#87998F] lg:text-2xl lg:text-[#020502]">
         <li class="list-none">
           July 8th
         </li>
@@ -45,7 +44,7 @@
       </ul>
     </div>
 
-    <p class="mb-4 text-center text-lg tracking-[0.75em] text-[#92A09B]">
+    <p class="mb-4 text-center text-base tracking-[0.75em] text-[#92A09B] lg:text-lg">
       DANCE AGENDA PRESENTS
     </p>
   </Page>

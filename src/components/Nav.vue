@@ -1,6 +1,6 @@
 <template>
-  <header class="bg-[#0D2A10]">
-    <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
+  <header class="absolute bg-[#0D2A10] w-full z-10">
+    <nav class="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
       <router-link to="/" class="-m-1.5 p-1.5">
         <span class="sr-only">Beyond The Pines</span>
         <img class="h-10 w-auto text-purple-500" src="/DA_Logo.svg?color=green&shade=600" alt="">

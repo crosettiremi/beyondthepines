@@ -7,7 +7,7 @@
       </router-link>
 
       <div class="flex lg:hidden">
-        <button type="button" class="-m-2.5 inline-flex cursor-pointer items-center justify-center rounded-md p-2.5 text-white" @click="mobileMenuOpen = true">
+        <button type="button" class="-m-2.5 inline-flex cursor-pointer items-center justify-center rounded-md p-2.5 text-white z-10" @click="mobileMenuOpen = true">
           <span class="sr-only">Open main menu</span>
           <Bars3Icon class="h-6 w-6" aria-hidden="true" />
         </button>
@@ -82,7 +82,7 @@
 						</div>
           </div>
         </div>
-				<img src="../assets/mainbg_front_trees.png" alt="Your Image Description" class="absolute bottom-0 left-1/2 transform -translate-x-1/2" />
+				<img src="../assets/mainbg_front_trees.png" alt="Your Image Description" class="pointer-events-none absolute bottom-0 left-1/2 transform -translate-x-1/2" />
       </DialogPanel>
     </Dialog>
   </header>

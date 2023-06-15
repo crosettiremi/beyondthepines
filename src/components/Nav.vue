@@ -48,7 +48,7 @@
         <div class="flex items-center justify-between bg-[#0D2A10] p-6">
           <router-link to="/" class="-m-1.5 p-1.5">
             <span class="sr-only">Beyond the Pines</span>
-            <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=green&shade=600" alt="">
+            <img class="h-8 w-auto text-purple-500" src="/DA_Logo.svg?color=green&shade=600" alt="">
           </router-link>
           <button type="button" class="-m-2.5 cursor-pointer rounded-md p-2.5" @click="mobileMenuOpen = false">
             <span class="sr-only">Close menu</span>

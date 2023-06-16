@@ -1,5 +1,5 @@
 <template>
-  <Page>
+  <Page class="overflow-y-auto">
     <FAQ />
   </Page>
 </template>

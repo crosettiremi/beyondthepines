@@ -19,7 +19,9 @@
 import Nav from '../components/Nav.vue'
 import backgroundImage from '../assets/Main_BG_Greens.png'
 
+const props = defineProps<{ useBackgroundImage?: boolean }>()
+
 const backgroundStyle = {
-	backgroundImage: `url(${backgroundImage})`,
+	backgroundImage: props.useBackgroundImage ? `url(${backgroundImage})` : 'linear-gradient(180deg, #E4E4E6 0%, #7C8C81 100%)',
 }
 </script>

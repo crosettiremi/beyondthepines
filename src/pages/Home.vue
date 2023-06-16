@@ -1,5 +1,5 @@
 <template>
-  <Page>
+  <Page useBackgroundImage>
     <div class="flex w-full flex-col items-center">
       <img class="my-8 h-40 w-full lg:mb-24" src="/BTP_isolated_black.svg">
 

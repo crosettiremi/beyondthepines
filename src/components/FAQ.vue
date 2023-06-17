@@ -24,7 +24,7 @@
       Food & Drink:
     </h2>
     <div class="mb-8">
-      There will be a bar and 2 food trucks on sight <span class="bg-[#FFFF54]">(Los Ocampo + PLNT BSD)</span>
+      There will be a bar and 2 food trucks on sight (Los Ocampo + PLNT BSD)
     </div>
 
     <h2 class="mb-2 text-4xl font-bold">
@@ -46,7 +46,7 @@
         Getting Here
       </h1>
       <div>Blue Ribbon Pines </div>
-      <div class="bg-[#FFFF54]">
+      <div>
         1901 Klondike Dr NE, East Bethel, MN
       </div>
     </div>
@@ -69,7 +69,7 @@
       Parking
     </h2>
     <div class="mb-8">
-      We will have a designated parking area for cars, approximately 2min away from the general festival grounds. <span class="bg-[#FFFF54]">Parking will be $10</span>
+      We will have a designated parking area for cars, approximately 2min away from the general festival grounds. Parking will be $10
     </div>
 
     <h2 class="mb-2 text-4xl font-bold">
@@ -81,7 +81,7 @@
     <div class="mb-2">
       No lining up overnight or roadside parking/camping.
     </div>
-    <div class="mb-8 w-fit bg-[#FFFF54]">
+    <div class="mb-8 w-fit">
       Open Hours: Noon-12AM
     </div>
 

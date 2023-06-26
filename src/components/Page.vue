@@ -3,7 +3,7 @@
     <Nav />
 
     <section class="fog">
-      <div class="fog-container pointer-events-none hidden lg:block">
+      <div v-if="useBackgroundImage" class="fog-container pointer-events-none hidden lg:block">
         <div class="fog-img fog-img-first" />
         <div class="fog-img fog-img-second" />
       </div>

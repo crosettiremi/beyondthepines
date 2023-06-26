@@ -5,7 +5,7 @@
         What to expect
       </h1>
       <div class="mb-8">
-        Beyond the Pines is a pack it in, pack it out festival. Please come prepared to pick up after yourself and leave no trace on the ranch.
+        Beyond the Pines is a pack it in, pack it out festival. Please come prepared to pick up after yourself and leave no trace at the venue.
       </div>
     </div>
 
@@ -15,36 +15,41 @@
     <ul class="mb-8 list-inside list-disc">
       <li>Multiple water stations</li>
       <li>Clean porta potties</li>
-      <li>4-5 Vendors</li>
-      <li>Chill out area</li>
-      <li>Road on to the property is not paved, but even. All cars will have no issue coming in or out.</li>
+      <li>Hand sanitizer at the porta potties</li>
+      <li>4-5 non-food Vendors</li>
+      <li>Chill out/relaxation area</li>
+      <li>Food truck + bar</li>
+      <li>Parking (see details below)</li>
     </ul>
 
     <h2 class="mb-2 text-4xl font-bold">
       Food & Drink:
     </h2>
     <div class="mb-8">
-      There will be a bar and 2 food trucks on sight (Los Ocampo + PLNT BSD)
+      There will be a bar and a food truck on sight (Los Ocampo).
     </div>
 
     <h2 class="mb-2 text-4xl font-bold">
       Landscape:
     </h2>
     <div class="mb-8">
-      The grounds are slightly uneven. There is also an active Disc Golf course nearby, so please be mindful and cautious of where you step on the property—we don’t want any twisted ankles or anyone getting hit with discs!
+      The stage and festival area is tucked in a beautiful wooded area with a forest-like feel. The grounds can be slightly uneven. There is also an active Disc Golf course nearby, so please be mindful and cautious when walking around the property—we don’t want any twisted ankles or anyone getting hit with discs! 
     </div>
 
     <h2 class="mb-2 text-4xl font-bold">
       Weather
     </h2>
     <div class="mb-8">
-      As this event will be held in the summer, it is very likely to be hot. Water will be available on site, but please come prepared for the heat. Be sure to rest and not overdo it, at the end of the day we want everyone to have a great, but safe time!
+      As this event will be held in the summer, it is very likely to be hot. Water will be available on site, but please come prepared for the heat. Be sure to rest when you need it in our relaxation area and not overdo it. We also encourage you to bring sunscreen/sun hat and bug spray. At the end of the day we want everyone to have a great, but safe time!
     </div>
 
     <div class="flex w-full flex-col items-center justify-center text-center">
       <h1 class="mb-4 text-5xl font-bold">
         Getting Here
       </h1>
+      <h2 class="mb-2 text-4xl font-bold">
+      Venue Location
+    </h2>
       <div>Blue Ribbon Pines </div>
       <div>
         1901 Klondike Dr NE, East Bethel, MN
@@ -55,7 +60,7 @@
       Shuttles:
     </h2>
     <div class="mb-8">
-      Shuttle service includes a round trip to and from the festival.
+      Shuttle service (add-on ticket) includes a round trip to and from the festival.
     </div>
 
     <ul class="mb-8 list-inside list-disc">
@@ -69,8 +74,15 @@
       Parking
     </h2>
     <div class="mb-8">
-      We will have a designated parking area for cars, approximately 2min away from the general festival grounds. Parking will be $10
+      We will have a designated parking area for cars, approximately 2min walk away from the general festival grounds. Parking will be $10, paid on site.
     </div>
+    <div class="mb-8">
+      Please note: The road on to the property is not paved, but it is even. All cars should have no issue coming in or out.    </div>
+
+    <div class="flex w-full flex-col items-center justify-center text-center">
+      <h2 class="mb-2 text-4xl font-bold">
+        If you are not untilizing the shuttle service, we encourage you to carpool with friends coming from the same area for environmental purposes (and fun!).
+      </h2>
 
     <h2 class="mb-2 text-4xl font-bold">
       Gate Hours
@@ -85,10 +97,7 @@
       Open Hours: Noon-12AM
     </div>
 
-    <div class="flex w-full flex-col items-center justify-center text-center">
-      <h2 class="mb-2 text-4xl font-bold">
-        For environmental purposes (and fun!), we encourage you to carpool with friends coming from the same area.
-      </h2>
+
       <div class="my-2 text-2xl">
         Don't forget to bring
       </div>
@@ -96,19 +105,19 @@
         Sunglasses or goggles
       </div>
       <div class="mb-2">
-        Earplugs (for safety and sleep)
+        Earplugs
       </div>
       <div class="mb-2">
         Sunscreen / Sun protection
       </div>
       <div class="mb-2">
-        Mosquito Repellent
+        Mosquito/Bug Repellent
       </div>
       <div class="mb-2">
         Food & Snackies (e.g. gum and lollipops)
       </div>
       <div class="mb-2">
-        Refillable water bottle or Camelbak
+        Water, and/or Refillable water bottle or Camelbak
       </div>
       <div class="mb-2">
         Sturdy, reliable footwear
@@ -123,10 +132,13 @@
     </h3>
     <ul class="mb-8 list-inside list-disc">
       <li>YES Good vibes</li>
-      <li>YES Reusable (non-glass) water bottles, stay hydrated and keep filled at the water stations</li>
       <li>YES Backpacks</li>
       <li>YES Cameras</li>
-      <li>YES Coolers</li>
+      <li>YES Sunscreen</li>
+      <li>YES Bug Spray</li>
+      <li>YES Sealed Outside Food & Snacks</li>
+      <li>YES Reusable (non-glass) water bottles, stay hydrated and keep filled at the water stations</li>
+      <li>YES Sealed Water Bottles</li>
     </ul>
 
     <h3 class="mb-2 text-3xl font-bold">

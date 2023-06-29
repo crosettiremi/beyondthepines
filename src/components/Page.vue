@@ -1,5 +1,5 @@
 <template>
-  <div class="relative flex flex-col overflow-hidden">
+  <div class="relative flex flex-col lg:overflow-hidden">
     <Nav />
 
     <section class="fog">

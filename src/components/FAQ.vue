@@ -13,7 +13,7 @@
       Amenities:
     </h2>
     <ul class="mb-8 list-inside list-disc">
-      <li>Multiple water stations</li>
+      <li>Water station to refill your water</li>
       <li>Clean porta potties</li>
       <li>Hand sanitizer at the porta potties</li>
       <li>4-5 non-food Vendors</li>
@@ -40,7 +40,7 @@
       Weather
     </h2>
     <div class="mb-8">
-      As this event will be held in the summer, it is very likely to be hot. Water will be available on site, but please come prepared for the heat. Be sure to rest when you need it in our relaxation area and not overdo it. We also encourage you to bring sunscreen/sun hat and bug spray. At the end of the day we want everyone to have a great, but safe time!
+      As this event will be held in the summer, it is very likely to be hot. Water will be available on sight, but please come prepared for the heat. Be sure to rest when you need it in our relaxation area and not overdo it. We also encourage you to bring sunscreen/sun hat and bug spray. At the end of the day we want everyone to have a great, but safe time!
     </div>
 
     <div class="flex w-full flex-col items-center justify-center text-center">

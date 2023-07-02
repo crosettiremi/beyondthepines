@@ -18,7 +18,7 @@
 
 .fog {
   position: relative;
-  height: 100vh;
+  height: 100%;
   width: 100%;
 }
 
@@ -34,7 +34,7 @@
 
 .fog-img {
   position: absolute;
-  height: 100vh;
+  height: 100%;
   width: 300vw;
   z-index: 12;
 }

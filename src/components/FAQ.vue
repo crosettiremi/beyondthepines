@@ -138,6 +138,7 @@
       <li>YES Cameras</li>
       <li>YES Sunscreen</li>
       <li>YES Bug Spray</li>
+      <li>YES Folding Chairs</li>
       <li>YES Sealed Outside Food & Snacks</li>
       <li>YES Reusable (non-glass) water bottles, stay hydrated and keep filled at the water stations</li>
       <li>YES Sealed Water Bottles</li>

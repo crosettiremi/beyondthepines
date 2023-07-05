@@ -64,8 +64,8 @@
     </div>
 
     <ul class="mb-8 list-inside list-disc">
-      <li>Departure (Minneapolis  Blue Ribbon Pines Venue): The shuttle will depart and return to the downtown/north loop area of Minneapolis, with exact location to be confirmed soon. The shuttles will depart at 11:30 am and 2pm. </li>
-      <li>Return (Blue Ribbon Pines Venue  Minneapolis). Returns shuttles will begin shortly after the music ends around 12:15am.</li>
+      <li>Departure (Minneapolis  Blue Ribbon Pines Venue): The shuttle will depart from the parking lot of Red Rabbit. The exact address is 250 2nd Ave N, Minneapolis. The shuttles will depart at 11:30 am and 2pm. </li>
+      <li>Return (Blue Ribbon Pines Venue  Minneapolis). Returns shuttles will begin shortly after the music ends around 12:15am. Drop off will be at the same address listed above. </li>
     </ul>
 
     <h2

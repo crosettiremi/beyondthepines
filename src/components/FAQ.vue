@@ -8,11 +8,11 @@
         Beyond the Pines is a pack it in, pack it out festival. Please come prepared to pick up after yourself and leave no trace at the venue.
       </div>
     </div>
-
-    <h2 class="mb-2 text-4xl font-bold items-center">
+    <div class="flex w-full flex-col items-center justify-center text-center">
+    <h2 class="mb-2 text-4xl font-bold">
       SET TIMES:
     </h2>
-    <ul class="mb-8 list-inside list-disc items-center">
+    <ul class="mb-8 list-inside list-disc">
       <li>12PM-1PM: DWADS</li>
       <li>1PM-2PM: LITA B2B LUNA7</li>
       <li>2PM-3PM: CAIKED UP B2B TEE SO</li>
@@ -22,7 +22,7 @@
       <li>8PM-10PM LUTTRELL</li>
       <li>10PM-12AM CHARLES D B2B WESKA </li>
     </ul>
-
+  </div>
     <h2 class="mb-2 text-4xl font-bold">
       Amenities:
     </h2>

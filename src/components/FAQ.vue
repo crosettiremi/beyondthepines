@@ -23,6 +23,12 @@
       <li>10PM-12AM CHARLES D B2B WESKA </li>
     </ul>
   </div>
+  <h2 class="mb-2 text-4xl font-bold">
+      Re-entry:
+    </h2>
+    <div class="mb-8">
+      NO re-entry. You are allowed to go to and from the parking lot, however.
+    </div>
     <h2 class="mb-2 text-4xl font-bold">
       Amenities:
     </h2>

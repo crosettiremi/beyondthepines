@@ -1,6 +1,9 @@
 <template>
   <div class="mx-auto w-full max-w-7xl px-6 py-20 text-black sm:py-32 lg:px-8 lg:py-40">
-    <div class="flex w-full flex-col items-center justify-center text-center">
+    <div class="flex w-full items-center justify-center text-4xl font-extrabold">
+      Coming Soon
+    </div>
+    <!-- <div class="flex w-full flex-col items-center justify-center text-center">
       <h1 class="mb-4 text-5xl font-bold">
         What to expect
       </h1>
@@ -175,6 +178,6 @@
       <li>NO Weapons of any kind</li>
       <li>NO Pets</li>
       <li>NO Outside Alcohol</li>
-    </ul>
+    </ul> -->
   </div>
 </template>

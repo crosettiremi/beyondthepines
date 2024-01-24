@@ -8,7 +8,10 @@
       </p>
 
       <div class="flex flex-col items-center rounded-md bg-white/25 p-2 lg:bg-transparent">
-        <img class="mt-4 h-14" src="/Luttrell_black.svg">
+        <p class="my-16 text-4xl font-extrabold text-[#01150A]">
+          LINEUP COMING SOON
+        </p>
+        <!-- <img class="mt-4 h-14" src="/Luttrell_black.svg">
         <p class="mb-4 hidden font-bold text-[#01150A] lg:mb-8 lg:block">
           SPECIAL SUNSET SET
         </p>
@@ -25,24 +28,24 @@
           </div>
 
           <img class="mt-4 h-14 lg:w-1/3" src="/embrz_black.svg">
-        </div>
+        </div> -->
       </div>
 
       <a
-        class="mt-4 block rounded-full bg-[#306D30] px-4 py-2 lg:hidden" href="https://mydanceagenda.ticketsauce.com/e/beyond-the-pines-music-festival/tickets" target="_blank"
+        class="my-4 block rounded-full bg-[#306D30] px-4 py-2 lg:hidden" href="https://mydanceagenda.ticketsauce.com/e/beyond-the-pines-music-festival/tickets" target="_blank"
         rel="noopener noreferrer"
       >
         Buy Tickets
       </a>
 
-      <ul class="mt-12 flex list-disc text-center text-lg text-[#87998F] lg:text-2xl lg:text-[#020502]">
+      <ul class="flex list-disc text-center text-lg text-[#020502] lg:text-2xl">
         <li class="list-none">
-          July 8th
+          August 9th - 11th
         </li>
         <li class="mx-8">
-          Blue Ribbon Pines
+          Chains Edge
         </li>
-        <li>East Bethel, MN</li>
+        <li>Ogilvie, MN</li>
       </ul>
     </div>
 

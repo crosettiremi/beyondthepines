@@ -97,7 +97,7 @@ const navigation = [
 	{ name: 'Home', href: '/', disabled: false, external: false },
 	{ name: 'Info', href: '/info', disabled: false, external: false },
 	{ name: 'Map', href: '/', disabled: true, external: false },
-	{ name: 'Ticket', href: 'https://mydanceagenda.ticketsauce.com/e/beyond-the-pines-music-festival/tickets', disabled: false, external: true },
+	{ name: 'Ticket', href: 'https://mydanceagenda.ticketsauce.com', disabled: false, external: true },
 ]
 
 const mobileMenuOpen = ref(false)

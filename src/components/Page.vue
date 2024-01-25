@@ -2,7 +2,7 @@
   <div class="relative flex flex-col">
     <Nav />
 
-    <section class="fog">
+    <section class="fog z-0">
       <div v-if="useBackgroundImage" class="fog-container pointer-events-none">
         <div class="fog-img fog-img-first" />
         <div class="fog-img fog-img-second" />

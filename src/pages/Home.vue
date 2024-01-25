@@ -32,7 +32,7 @@
       </div>
 
       <a
-        class="my-4 block rounded-full bg-[#306D30] px-4 py-2 lg:hidden" href="https://mydanceagenda.ticketsauce.com/e/beyond-the-pines-music-festival/tickets" target="_blank"
+        class="my-4 block rounded-full bg-[#306D30] px-4 py-2 lg:hidden" href="https://mydanceagenda.ticketsauce.com" target="_blank"
         rel="noopener noreferrer"
       >
         Buy Tickets
